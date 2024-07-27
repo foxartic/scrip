@@ -5,8 +5,8 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/asus/Z01KD_1" name="foxartic/device_asus_Z01KD_1" remote="gh" revision="main" />
-	<project path="vendor/asus/Z01KD_1" name="foxartic/vendor_asus_Z01KD_1" remote="gh" revision="main" />
+	<project path="device/xiaomi/miatoll" name="foxartic/device_xiaomi_miatoll" remote="gh" revision="main" />
+	<project path="vendor/xiaomi/miatoll" name="foxartic/vendor_xiaomi_miatoll" remote="gh" revision="main" />
 	
 
 </manifest>
