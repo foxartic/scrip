@@ -5,5 +5,5 @@
 rm out/target/product/*/*.zip
 source  build/envsetup.sh
 
-lunch lineage_Z01KD_1-eng
+lunch lineage_Z01K-eng
 m bacon
