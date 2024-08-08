@@ -1,7 +1,7 @@
 #!/bin/bash
 
 /opt/crave/resync.sh
-rm -rf prebuilts 
+
 rm out/target/product/*/*.zip
 source  build/envsetup.sh
 
