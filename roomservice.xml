@@ -5,8 +5,8 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/asus/Z01K" name="foxartic/device_asus_Z01K" remote="gh" revision="main" />
-	<project path="vendor/asus/Z01K" name="foxartic/vendor_asus_Z01K" remote="gh" revision="main" />
+	<project path="device/asus/Z01K" name="foxartic/device_asus_Z01K" remote="gh" revision="13-test" />
+	<project path="vendor/asus/Z01K" name="foxartic/vendor_asus_Z01K" remote="gh" revision="13-test" />
 	
 
 </manifest>
