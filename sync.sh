@@ -6,4 +6,4 @@ rm out/target/product/*/*.zip
 source  build/envsetup.sh
 
 
-riseup miatoll userdebug
+brunch miatoll
