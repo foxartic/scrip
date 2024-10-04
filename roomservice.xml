@@ -2,11 +2,18 @@
 <manifest>
 	
 	<remote name="gh" fetch="https://github.com" />		
+	<remote name="gl" fetch="https://gitlab.com" />		
 	
 	
 	<!-- Trees -->
 	<project path="device/xiaomi/miatoll" name="foxartic/android_device_xiaomi_miatoll-u dc" remote="gh" revision="14-matrix" />
 	<project path="vendor/xiaomi/miatoll" name="foxartic/android_vendor_xiaomi_miatoll-udc" remote="gh" revision="14" />
 	<project path="kernel/xiaomi/miatoll" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis-v29" />
+
+ <project path="vendor/xiaomi/miuicamera" name="athizz2005/android_vendor_MiuiCamera" remote="gl" revision="leica-5.0" />
+
+ <project path="hardware/xiaomi" name="c0smic-lab/hardware_xiaomi hardware/xiaomi" remote="gl" revision="14" />
+
+ <project path="packages/apps/ViPER4AndroidFX" name="DanipunK1/packages_apps_ViPER4AndroidFX" remote="gl" revision="udc" />
 
 </manifest>
