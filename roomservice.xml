@@ -5,8 +5,8 @@
 	
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/miatoll" name="foxartic/android_device_xiaomi_miatoll-u dc" remote="gh" revision="main" />
-	<project path="vendor/xiaomi/miatoll" name="foxartic/vendor_device_xiaomi_miatoll-u dc" remote="gh" revision="main" />
+	<project path="device/xiaomi/miatoll" name="foxartic/android_device_xiaomi_miatoll-u dc" remote="gh" revision="14-matrix" />
+	<project path="vendor/xiaomi/miatoll" name="foxartic/android_vendor_xiaomi_miatoll-udc" remote="gh" revision="14" />
 	<project path="kernel/xiaomi/miatoll" name="clarencelol/kernel_xiaomi_sm6250" remote="gh" revision="kinesis-v29" />
 
 </manifest>
